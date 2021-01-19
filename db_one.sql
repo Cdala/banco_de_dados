@@ -6,7 +6,7 @@ cidade varchar (30))
 
 
 
-insert into cliente(codigo, nome,telefone,cidade)
+insert into cliente(codigo,nome,telefone,cidade)
 values(1, 'Carlos',41848485699,'Araucaria')
 
 
